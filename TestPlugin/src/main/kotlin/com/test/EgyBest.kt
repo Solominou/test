@@ -87,7 +87,7 @@ class EgyBest : MainAPI() {
     override suspend fun search(query: String): List<SearchResponse> {
         val q = query.replace(" ","%20")
         val result = arrayListOf<SearchResponse>()
-        listOf("$mainUrl/explore/?q=$q").apmap { url ->
+        listOf("$mainUrl/search?_token=fZJFuQEvx2y8nDI4tzlQ8s45tG1tSTOLkbiBmyeO&q=$q").apmap { url ->
             val d = app.get(url).document
             d.select("div.movies a").not("a.auto.load.btn.b").mapNotNull {
                 it.toSearchResponse()?.let { it1 -> result.add(it1) }
