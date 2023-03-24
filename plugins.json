@@ -1,0 +1,123 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeiat.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/test",
+        "fileSize": 20699,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "AnimeiatProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/Solominou/test/builds/AnimeiatProvider.cs3",
+        "name": "AnimeiatProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=fajer.show&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/test",
+        "fileSize": 18265,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "FajerShowProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/Solominou/test/builds/FajerShowProvider.cs3",
+        "name": "FajerShowProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/test",
+        "fileSize": 13836,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 2,
+        "internalName": "FaselHDProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/Solominou/test/builds/FaselHDProvider.cs3",
+        "name": "FaselHDProvider"
+    },
+    {
+        "iconUrl": "https://b.gateanime.cam/wp-content/uploads/2020/12/cropped-Favicon-192x192.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/test",
+        "fileSize": 11608,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TVSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "GateAnimeProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/Solominou/test/builds/GateAnimeProvider.cs3",
+        "name": "GateAnimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=shahid4u.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/test",
+        "fileSize": 15222,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 3,
+        "internalName": "Shahid4uProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/Solominou/test/builds/Shahid4uProvider.cs3",
+        "name": "Shahid4uProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/test",
+        "fileSize": 28708,
+        "status": 1,
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": -1,
+        "internalName": "TestPlugin",
+        "description": "Beta version is basically an incompleted providers so you might face problems. Mostly for development",
+        "url": "https://raw.githubusercontent.com/Solominou/test/builds/TestPlugin.cs3",
+        "name": "TestPlugin"
+    }
+]
