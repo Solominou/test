@@ -120,10 +120,10 @@
             "AsianDrama"
         ],
         "version": 3,
-        "internalName": "tuktukProvider",
+        "internalName": "CimaNowProvider",
         "description": "Go to Hell",
-        "url": "https://raw.githubusercontent.com/Solominou/test/builds/tuktukProvider.cs3",
-        "name": "TukTukProvider"
+        "url": "https://raw.githubusercontent.com/Solominou/test/builds/CimaNowProvider.cs3",
+        "name": "CimaNowProvider"
     },
     {
         "apiVersion": 1,
