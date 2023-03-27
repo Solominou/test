@@ -104,6 +104,28 @@
         "name": "Shahid4uProvider"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tuktukcinema.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/test",
+        "fileSize": 15222,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 3,
+        "internalName": "tuktukProvider",
+        "description": "Go to Hell",
+        "url": "https://raw.githubusercontent.com/Solominou/test/builds/tuktukProvider.cs3",
+        "name": "TukTukProvider"
+    },
+    {
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/test",
         "fileSize": 28708,
