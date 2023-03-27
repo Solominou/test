@@ -1,5 +1,5 @@
 {
-  "name": "Arabic repository",
+  "name": "Test repository",
   "description": "",
   "manifestVersion": 1,
   "pluginLists": ["https://raw.githubusercontent.com/Solominou/test/builds/plugins.json"]
