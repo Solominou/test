@@ -19,6 +19,29 @@
         "name": "AnimeiatProvider"
     },
     {
+        "iconUrl": "https://raw.githubusercontent.com/Solominou/test/main/SoraStream/Icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/test",
+        "fileSize": 242694,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated",
+            "Sora"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 106,
+        "internalName": "SoraStream",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://raw.githubusercontent.com/Solominou/test/builds/SoraStream.cs3",
+        "name": "SoraStream"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=fajer.show&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/test",
@@ -102,28 +125,6 @@
         "description": "",
         "url": "https://raw.githubusercontent.com/Solominou/test/builds/Shahid4uProvider.cs3",
         "name": "Shahid4uProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tuktukcinema.net&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/test",
-        "fileSize": 15222,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "Solo"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime",
-            "AsianDrama"
-        ],
-        "version": 3,
-        "internalName": "CimaNowProvider",
-        "description": "Go to Hell",
-        "url": "https://raw.githubusercontent.com/Solominou/test/builds/CimaNowProvider.cs3",
-        "name": "CimaNowProvider"
     },
     {
         "apiVersion": 1,
