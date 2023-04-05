@@ -87,7 +87,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/test",
         "fileSize": 13836,
-        "status": 1,
+        "status": 0,
         "language": "ar",
         "authors": [
             "ImZaw"
@@ -130,7 +130,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/test",
         "fileSize": 15222,
-        "status": 1,
+        "status": 0,
         "language": "ar",
         "authors": [
             "ImZaw"
