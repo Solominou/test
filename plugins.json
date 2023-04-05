@@ -19,6 +19,27 @@
         "name": "AnimeiatProvider"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=akwam.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/arab",
+        "fileSize": 13712,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Blatzar"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 2,
+        "internalName": "AkwamProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/arab/builds/AkwamProvider.cs3",
+        "name": "AkwamProvider"
+    },
+    {
         "iconUrl": "https://raw.githubusercontent.com/Solominou/test/main/SoraStream/Icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/test",
