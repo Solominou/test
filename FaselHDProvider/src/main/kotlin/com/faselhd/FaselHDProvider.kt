@@ -25,8 +25,8 @@ class FaselHD : MainAPI() {
     private fun Element.toSearchResponse(): SearchResponse? {
         val url = select("div.postDiv a").attr("href") ?: return null
         val posterUrl = select("div.postDiv a div img").attr("data-src") ?:
-        select("div.postDiv a div img").attr("src")
-        val title = select("div.postDiv a div img").attr("alt")
+        select("div.postDiv a img").attr("src")
+        val title = select("div.postDiv a img").attr("alt")
         val quality = select(".quality").first()?.text()?.replace("1080p |-".toRegex(), "")
         val type = if(title.contains("فيلم")) TvType.Movie else TvType.TvSeries
         return MovieSearchResponse(
