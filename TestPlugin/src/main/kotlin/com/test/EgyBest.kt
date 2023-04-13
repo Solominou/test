@@ -48,7 +48,7 @@ class EgyBest : MainAPI() {
 	
     private fun Element.toSearchResponse(): SearchResponse? {
         val url = this.attr("href") ?: return null
-        val posterUrl = select("div").attr("src")
+        val posterUrl = select("div a span img").attr("src")
         var title = select("span.title").text()
         val year = title.getYearFromTitle()
         val isMovie = Regex(".*/movie/.*|.*/masrahiya/.*").matches(url)
