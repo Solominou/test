@@ -13,7 +13,7 @@ class Akwam : MainAPI() {
     override var name = "Akwam"
     override val usesWebView = false
     override val hasMainPage = true
-    override val supportedTypes = setOf(TvType.TvSeries, TvType.Movie, TvType.Anime, TvType.Cartoon)
+    override val supportedTypes = setOf(TvType.TvSeries, TvType.Movie, TvType.Anime, TvType.Documentary)
 
     private fun Element.toSearchResponse(): SearchResponse? {
         val url = select("a.box").attr("href") ?: return null
