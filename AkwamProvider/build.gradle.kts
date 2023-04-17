@@ -8,7 +8,7 @@ cloudstream {
 	
     status = 1
 
-    tvTypes = listOf( "Documentary" )
+    tvTypes = listOf("Documentary")
 
     iconUrl = "https://www.google.com/s2/favicons?domain=akwam.to&sz=%size%"
 }
