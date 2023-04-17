@@ -28,8 +28,7 @@
         "authors": [
             "Blatzar"
         ],
-        "tvTypes": [
-            
+        "tvTypes": [      
             "Documentary"
         ],
         "version": 2,
@@ -153,7 +152,7 @@
             "ImZaw"
         ],
         "tvTypes": [
-            "Others"
+            "Documentary"
         ],
         "version": -1,
         "internalName": "TestPlugin",
