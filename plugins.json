@@ -29,10 +29,8 @@
             "Blatzar"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime",
-            "Cartoon"
+            
+            "Documentary"
         ],
         "version": 2,
         "internalName": "AkwamProvider",
@@ -73,8 +71,7 @@
             "ImZaw"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Movie"
+            "Documentary"
         ],
         "version": 1,
         "internalName": "FajerShowProvider",
