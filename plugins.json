@@ -23,7 +23,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/test",
         "fileSize": 13712,
-        "status": 1,
+        "status": 0,
         "language": "ar",
         "authors": [
             "Blatzar"
@@ -41,7 +41,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/test",
         "fileSize": 242694,
-        "status": 1,
+        "status": 0,
         "language": "en",
         "authors": [
             "Hexated",
@@ -64,7 +64,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/test",
         "fileSize": 18265,
-        "status": 1,
+        "status": 0,
         "language": "ar",
         "authors": [
             "ImZaw"
@@ -83,7 +83,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/test",
         "fileSize": 13836,
-        "status": 1,
+        "status": 0,
         "language": "ar",
         "authors": [
             "ImZaw"
