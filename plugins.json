@@ -4,19 +4,20 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/test",
         "fileSize": 20699,
-        "status": 0,
+        "status": 1,
         "language": "ar",
         "authors": [
             "ImZaw"
         ],
         "tvTypes": [
-            "Anime"
+            "TvSeries",
+            "Movie"
         ],
         "version": 1,
-        "internalName": "AnimeiatProvider",
-        "description": "",
-        "url": "https://raw.githubusercontent.com/Solominou/test/builds/AnimeiatProvider.cs3",
-        "name": "AnimeiatProvider"
+        "internalName": "CimaNowProvider",
+        "description": "By Solo",
+        "url": "https://raw.githubusercontent.com/Solominou/test/builds/CimaNowProvider.cs3",
+        "name": "CimaNowProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
