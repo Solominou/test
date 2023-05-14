@@ -1,8 +1,7 @@
 #EXTM3U
 ===========News==========
 #EXTINF:0 tvg-name="LBCI" tvg-country="LEB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="Lebanon",LBCI
-https://tv.ipslow.com/tv196_www.elahmad.com_lbc/index.m3u8?token=bb533d44c57871f3dbe711683b6d6b11f2c6949e-50d3c487d7f2f0ad09c622fab59b424d-1683933549-1683922749
-#EXTINF:0 tvg-name="Russia today UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Lebanon",MTV
+http://www.elahmad.com/tv/lbc.php #EXTINF:0 tvg-name="Russia today UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Lebanon",MTV
 https://1333578254.rsc.cdn77.org/1537084837/playlist.m3u8?v=2995192523
 #EXTINF:0 tvg-name="Russia today France" tvg-country="RU" tvg-language="French" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="Lebanon",Al-Jadeed
 https://www.elahmad.com/tv/radiant.php?id=aljadeed1 #EXTINF:0 group-title="Documentary" tvg-name="RT Documentary" tvg-language="English" tvg-country="RU" tvg-logo="https://i.imgur.com/6iJiWUe.png",RT 
