@@ -20,6 +20,26 @@
         "name": "CimaNowProvider"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.tube&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/arab",
+        "fileSize": 19538,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Others",
+            "Anime"
+        ],
+        "version": 8,
+        "internalName": "MyCimaProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/arab/builds/MyCimaProvider.cs3",
+        "name": "MyCimaProvider"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/test",
