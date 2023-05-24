@@ -186,18 +186,22 @@
     {
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/test",
-        "fileSize": 28708,
+        "fileSize": 19921,
         "status": 1,
+        "language": "ar",
         "authors": [
             "ImZaw"
         ],
         "tvTypes": [
-            "Documentary"
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
         ],
-        "version": -1,
-        "internalName": "TestPlugin",
-        "description": "Beta version is basically an incompleted providers so you might face problems. Mostly for development",
-        "url": "https://raw.githubusercontent.com/Solominou/test/builds/TestPlugin.cs3",
-        "name": "TestPlugin"
+        "version": 1,
+        "internalName": "Extractors",
+        "description": "This is required to be downloaded.",
+        "url": "https://raw.githubusercontent.com/Solominou/test/builds/Extractors.cs3",
+        "name": "Extractors"
     }
 ]
