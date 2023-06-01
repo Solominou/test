@@ -69,7 +69,10 @@
             "Blatzar"
         ],
         "tvTypes": [      
-            "Documentary"
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
         ],
         "version": 2,
         "internalName": "AkwamProvider",
