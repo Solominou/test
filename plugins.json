@@ -38,7 +38,7 @@
         "version": 9,
         "internalName": "MaciptvProvider",
         "description": "Add your IPTV account or use the default account to watch Live TV, Movies,TvSeries ...",
-        "url": "https://github.com/Solominou/test/builds/MaciptvProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Solominou/test/builds/MaciptvProvider.cs3",
         "name": "MaciptvProvider"
     },
     {
