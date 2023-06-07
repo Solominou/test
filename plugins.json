@@ -25,7 +25,7 @@
 
         "apiVersion": 1,
 
-        "repositoryUrl": "https://github.com/Eddy976/cloudstream-extensions-eddy",
+        "repositoryUrl": "https://github.com/Solominou/test",
 
         "fileSize": 76919,
 
@@ -55,7 +55,7 @@
 
         "description": "Add your IPTV account or use the default account to watch Live TV, Movies,TvSeries ...",
 
-        "url": "https://raw.githubusercontent.com/Eddy976/cloudstream-extensions-eddy/builds/MaciptvProvider.cs3",
+        "url": "https://github.com/Solominou/test/builds/MaciptvProvider.cs3",
 
         "name": "MaciptvProvider"
 
