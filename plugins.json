@@ -20,6 +20,26 @@
         "name": "CimaNowProvider"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ngefilm21.club&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/test",
+        "fileSize": 21143,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Ngefilm",
+        "url": "https://raw.githubusercontent.com/Solominou/test/builds/Ngefilm.cs3",
+        "name": "Ngefilm"
+    },
+    {
 
         "iconUrl": "https://www.google.com/s2/favicons?domain=franceiptv.fr/&sz=%size%",
         "apiVersion": 1,
