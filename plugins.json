@@ -96,12 +96,12 @@
         "tvTypes": [
             "TvSeries",
             "Others",
-            "Anime"
+            "Movie"
         ],
         "version": 8,
         "internalName": "tukProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/test/builds/TuktukProvider.cs3",
-        "name": "TuktukProvider"
+        "url": "https://raw.githubusercontent.com/Solominou/test/builds/MyCimaProvider.cs3",
+        "name": "MyCimaProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
