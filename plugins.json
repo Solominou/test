@@ -20,6 +20,109 @@
         "name": "CimaNowProvider"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=rainostreams.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/821938089/cloudstream-extensions",
+        "fileSize": 16021,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Horis"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "BDNewsZHProvider",
+        "url": "https://raw.githubusercontent.com/821938089/cloudstream-extensions/builds/BDNewsZHProvider.cs3",
+        "name": "BDNewsZHProvider"
+    }, 
+     {
+        "iconUrl": "https://cdn.jsdelivr.net/npm/@googledrive/index@2.0.20/images/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/821938089/cloudstream-extensions",
+        "fileSize": 101852,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Horis"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 26,
+        "internalName": "BollywoodProvider",
+        "url": "https://raw.githubusercontent.com/821938089/cloudstream-extensions/builds/BollywoodProvider.cs3",
+        "name": "BollywoodProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ddys.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/821938089/cloudstream-extensions",
+        "fileSize": 17410,
+        "status": 1,
+        "language": "zh",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Movie",
+            "AnimeMovie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama",
+            "Others"
+        ],
+        "version": 2,
+        "internalName": "DdysProvider",
+        "url": "https://raw.githubusercontent.com/821938089/cloudstream-extensions/builds/DdysProvider.cs3",
+        "name": "DdysProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ww1.new-movies123.co&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/821938089/cloudstream-extensions",
+        "fileSize": 18429,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Horis"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 6,
+        "internalName": "Movie123Provider",
+        "url": "https://raw.githubusercontent.com/821938089/cloudstream-extensions/builds/Movie123Provider.cs3",
+        "name": "Movie123Provider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/821938089/cloudstream-extensions",
+        "fileSize": 52150,
+        "status": 1,
+        "language": "zh",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Movie",
+            "AnimeMovie",
+            "TvSeries",
+            "Cartoon",
+            "Anime",
+            "AsianDrama",
+            "Documentary",
+            "Others"
+        ],
+        "version": 11,
+        "internalName": "SuperVod",
+        "url": "https://raw.githubusercontent.com/821938089/cloudstream-extensions/builds/SuperVod.cs3",
+        "name": "SuperVod"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=ngefilm21.club&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/test",
